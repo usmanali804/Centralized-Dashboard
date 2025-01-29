@@ -1,4 +1,3 @@
-# Centralized-Dashboard
 # Visionary Edge Dashboard
 
 A modern, responsive admin dashboard built with React, TypeScript, and Tailwind CSS. This application provides a comprehensive interface for managing users, viewing analytics, and controlling automation workflows.
@@ -54,7 +53,7 @@ A modern, responsive admin dashboard built with React, TypeScript, and Tailwind 
 
 1. Clone the repository:
 bash
-git clone https://github.com/yourusername/visionary-edge.git
+git clone https://github.com/usmanali804/Centralized-Dashboard.git
 cd visionary-edge
 
 
@@ -112,4 +111,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Project Link: [https://github.com/usmanali804/visionary-edge](https://github.com/usmanali804/visionary-edge)
+Project Link: [https://github.com/usmanali804/Centralized-Dashboard](https://github.com/usmanali804/Centralized-Dashboard.git)
