@@ -54,7 +54,8 @@ A modern, responsive admin dashboard built with React, TypeScript, and Tailwind 
 1. Clone the repository:
 bash
 git clone https://github.com/usmanali804/Centralized-Dashboard.git
-cd visionary-edge
+
+cd PROJECT
 
 
 3. Install dependencies:
